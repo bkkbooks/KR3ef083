@@ -1,0 +1,560 @@
+canonical_identifier: bkk:krp/KR3ef083/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ef083/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金匱玉函經二註
+  identifiers:
+    krp: KR3ef083
+  tags:
+    kr-categories: KR3ef
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ef083.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ef083_000-jc.yaml, hash: 'sha256:47c0d27ebd2fa16f36e72a2bc04fa3b403ecfcae6474a23e578d0049e100c3f5'}
+  - {seq: 1, filename: KR3ef083_001-jc.yaml, hash: 'sha256:910d30d0d6bd6063de5b5ee1995b78e35623d11e5861aa6bf27acc8455cff1f9'}
+  - {seq: 2, filename: KR3ef083_002-jc.yaml, hash: 'sha256:1014df7f175064135f9ca946981a6cd416b2d282f6263b5e3a5a02ee0ca3f313'}
+  - {seq: 3, filename: KR3ef083_003-jc.yaml, hash: 'sha256:8bb764b15e5ddf1ac2ef4f93c64386b8d954b2944357ef2328aee35465d9ef7f'}
+  - {seq: 4, filename: KR3ef083_004-jc.yaml, hash: 'sha256:0ded391add42cef5a37d2fc646d0d079b4e4f008f135479e7873460c6af78234'}
+  - {seq: 5, filename: KR3ef083_005-jc.yaml, hash: 'sha256:f05768e016a0fcf995c293effac2ef666660e72c8340e86ede38cf17829717a6'}
+  - {seq: 6, filename: KR3ef083_006-jc.yaml, hash: 'sha256:979ccbe9f502b963d5b7ffca4e9b5c66cd1026d25748149b98fc33ed4593717e'}
+  - {seq: 7, filename: KR3ef083_007-jc.yaml, hash: 'sha256:24b3db19a3e69c24a80f63938742993e322d23edea380f1d2df5f8391a44737d'}
+  - {seq: 8, filename: KR3ef083_008-jc.yaml, hash: 'sha256:7f29161fa0ffe1574480896c14949495dcadf8263d05e69fafc7d23645d40b70'}
+  - {seq: 9, filename: KR3ef083_009-jc.yaml, hash: 'sha256:f5db9ec95d8b384dae353a4889b9b7b26d9573f56663c9ca2a1f144b6789cca0'}
+  - {seq: 10, filename: KR3ef083_010-jc.yaml, hash: 'sha256:86973b556389f18788591ae2da210f85aff690c548477aef17ae1db647022a75'}
+  - {seq: 11, filename: KR3ef083_011-jc.yaml, hash: 'sha256:8d67a13fe0cbcb5e66cba5542352d2015d5015e0c1536dc2bb92210f497399e7'}
+  - {seq: 12, filename: KR3ef083_012-jc.yaml, hash: 'sha256:c48e208d4af1c1432e3d911ce523f2d2f7f8f1e38ccef2f7597066632cc75069'}
+  - {seq: 13, filename: KR3ef083_013-jc.yaml, hash: 'sha256:e863edb496c7d2e99b2c9637ba37480dd7b4c49b543d304ffa7da5ad0b3cac24'}
+  - {seq: 14, filename: KR3ef083_014-jc.yaml, hash: 'sha256:72727e2e2daba52a3164013a69e956372eb4f9e47a949aa7da49e43f87ea08a4'}
+  - {seq: 15, filename: KR3ef083_015-jc.yaml, hash: 'sha256:fb9376bb9286692a797b8e3729f2f89b7b30c68527bc3c41bfe2d6ef907b92a3'}
+  - {seq: 16, filename: KR3ef083_016-jc.yaml, hash: 'sha256:1918d7212c440d9ab1bc94539df7c5800750f50702ffe37b5864eed2303f5633'}
+  - {seq: 17, filename: KR3ef083_017-jc.yaml, hash: 'sha256:726688bdf588da10bc00ec7e42ddcb0d6119e7e6fd763082a039c7a88a9a795e'}
+  - {seq: 18, filename: KR3ef083_018-jc.yaml, hash: 'sha256:2fc793b95f719d81c6938c5288ff4a779f8ba9f1699e7f5204fca5928ee02a3d'}
+  - {seq: 19, filename: KR3ef083_019-jc.yaml, hash: 'sha256:f9a2d05f179052d718371228bda5d69a6dab2150b86a4f1deebcfcfff9a101ac'}
+  - {seq: 20, filename: KR3ef083_020-jc.yaml, hash: 'sha256:4a7ea624bdbb005571fa4e3db90208642eec82acda43d9bf42c172ac6e04475d'}
+  - {seq: 21, filename: KR3ef083_021-jc.yaml, hash: 'sha256:c82aedf13dedd46edf14258c66aa65f3ac2a0006546f817f5b2be6dd613cf97c'}
+  - {seq: 22, filename: KR3ef083_022-jc.yaml, hash: 'sha256:8e98a00f93abeeb8fe8223ddf05634b39c41d2b398a72a90e82b80a140b87762'}
+  - {seq: 0, filename: KR3ef083_000-jc.yaml, hash: 'sha256:84d5a155ba3294f2f62f4d30880c8baf9f1076485c2fab70b00c9a043bf49c14'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ef083_000-jc.markers.yaml, hash: 'sha256:d842b16f1d3724a0bad5773e32b7129a9f8dfc39fbba5f7c632e9c92abaab7fc'}
+  - {seq: 1, role: markers, filename: assets/KR3ef083_001-jc.markers.yaml, hash: 'sha256:928ea634c70b47e7197b6ff21c1c134e88811da6f4f7290f9c216447222dabd7'}
+  - {seq: 2, role: markers, filename: assets/KR3ef083_002-jc.markers.yaml, hash: 'sha256:02ab385cbfd77408fa195b688c5ee301476d057b68e1cc2201a0a97b07955351'}
+  - {seq: 3, role: markers, filename: assets/KR3ef083_003-jc.markers.yaml, hash: 'sha256:d7bc07f5ff1c24305ff0b7b2ed1504a71487d9df286f65bdf815339c52928b24'}
+  - {seq: 4, role: markers, filename: assets/KR3ef083_004-jc.markers.yaml, hash: 'sha256:d8fafbea80eae54b8796ea8dff6b71eb8ad865d6dbf317cbe776538864941420'}
+  - {seq: 5, role: markers, filename: assets/KR3ef083_005-jc.markers.yaml, hash: 'sha256:528f2f3980054b35df6f3e012ee86a96fe26a096de8802d7927a56250b0c4db0'}
+  - {seq: 6, role: markers, filename: assets/KR3ef083_006-jc.markers.yaml, hash: 'sha256:820ce92463d99db567a3c81eabddef02b201d824e58e3fd90cb7771cfa59152a'}
+  - {seq: 7, role: markers, filename: assets/KR3ef083_007-jc.markers.yaml, hash: 'sha256:63f6c47d23591cbe93e2aa87b6120c043d1b4477e42782af24fd6ff1496d0030'}
+  - {seq: 8, role: markers, filename: assets/KR3ef083_008-jc.markers.yaml, hash: 'sha256:07240c6e57e24a99aefef18994cfa5a883459fb4835f1b30e2153d49ead82209'}
+  - {seq: 9, role: markers, filename: assets/KR3ef083_009-jc.markers.yaml, hash: 'sha256:3970df89d8023def080ecedadb6408b2a6cbfda29d7b52f06af1a60cdd642793'}
+  - {seq: 10, role: markers, filename: assets/KR3ef083_010-jc.markers.yaml, hash: 'sha256:c426e669c7289c1d0c6f279ec0416b424241480646680adfb7bbb760937412b3'}
+  - {seq: 11, role: markers, filename: assets/KR3ef083_011-jc.markers.yaml, hash: 'sha256:455c686510c981881934340e82f98b59221ffed4225643d3c5527da23206eb19'}
+  - {seq: 12, role: markers, filename: assets/KR3ef083_012-jc.markers.yaml, hash: 'sha256:939926df6426b0e36316e3978f707b2b5ddf9c61830053f80b7f47c3a23b8584'}
+  - {seq: 13, role: markers, filename: assets/KR3ef083_013-jc.markers.yaml, hash: 'sha256:92544ce2ae31a2df3ba1bed35e7ae28bbb089d9043a96446a4f7913d77f81f05'}
+  - {seq: 14, role: markers, filename: assets/KR3ef083_014-jc.markers.yaml, hash: 'sha256:4504ad0c0f27538a76e20deddf3f1eeece9aa6e769e7cfc3f7cf1ea257cc09d3'}
+  - {seq: 15, role: markers, filename: assets/KR3ef083_015-jc.markers.yaml, hash: 'sha256:fedfb0ee5ce1734d5b3055fafa3154592647083cea4e6623aea9e447b5b3065d'}
+  - {seq: 16, role: markers, filename: assets/KR3ef083_016-jc.markers.yaml, hash: 'sha256:692bb43d37f416240a20ba1201413dce3814525c2973167673738311577d93cd'}
+  - {seq: 17, role: markers, filename: assets/KR3ef083_017-jc.markers.yaml, hash: 'sha256:b4a6875dd002c3a84675d1091ddcea1a64fb8d0addeaa276fbf37d438bcbb87b'}
+  - {seq: 18, role: markers, filename: assets/KR3ef083_018-jc.markers.yaml, hash: 'sha256:1c59dfbd0af39e14d432a6472ea27cb395f25823c63a2486ba8129556ea89556'}
+  - {seq: 19, role: markers, filename: assets/KR3ef083_019-jc.markers.yaml, hash: 'sha256:b6571a2a08064b1fae782b9bda6c4a232bce52a22c7a8d0304edab8546129308'}
+  - {seq: 20, role: markers, filename: assets/KR3ef083_020-jc.markers.yaml, hash: 'sha256:56b9e557c45ee438989dec0850343d86e03a8072bbb005d4285f8e24cbb720e7'}
+  - {seq: 21, role: markers, filename: assets/KR3ef083_021-jc.markers.yaml, hash: 'sha256:81def4343f6c3508c71140b95d64d2371671cb8288b8132eb41db63b4c9cf6c3'}
+  - {seq: 22, role: markers, filename: assets/KR3ef083_022-jc.markers.yaml, hash: 'sha256:8c5da382df33b16393b91dbf3989281e5368979dde316b8dd10a02b6d1c9c405'}
+  - {seq: 0, role: markers, filename: assets/KR3ef083_000-jc.markers.yaml, hash: 'sha256:d842b16f1d3724a0bad5773e32b7129a9f8dfc39fbba5f7c632e9c92abaab7fc'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ef083_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 363
+  label: 葉序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef083_jc_000-d3.h1s1
+    span:
+    - front
+    - 363
+    - 984
+  label: 陳序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef083_jc_000-d4.h1s1
+    span:
+    - front
+    - 984
+    - 1468
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ef083_jc_001-d5.h1s1
+    span:
+    - body
+    - 0
+    - 6952
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ef083_jc_001-d5d2
+    span:
+    - body
+    - 2
+    - 6952
+  label: 臟腑經絡先後病脈證第一
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef083_jc_002-d6.h1s1
+    span:
+    - body
+    - 0
+    - 8358
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ef083_jc_002-d6d2
+    span:
+    - body
+    - 2
+    - 8358
+  label: 痙濕暍病脈證第二
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef083_jc_003-d7.h1s1
+    span:
+    - body
+    - 0
+    - 3923
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ef083_jc_003-d7d2
+    span:
+    - body
+    - 2
+    - 3923
+  label: 百合狐惑陰陽毒病證治第三
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef083_jc_004-d8.h1s1
+    span:
+    - body
+    - 0
+    - 4057
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ef083_jc_004-d8d2
+    span:
+    - body
+    - 2
+    - 2592
+  label: 瘧病脈證並治第四
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef083_jc_004-d8d3
+    span:
+    - body
+    - 2592
+    - 4057
+  label: 瘧疾總論
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef083_jc_005-d9.h1s1
+    span:
+    - body
+    - 0
+    - 4477
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ef083_jc_005-d9d2
+    span:
+    - body
+    - 2
+    - 4477
+  label: 中風歷節病脈證治第五
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ef083_jc_006-d10.h1s1
+    span:
+    - body
+    - 0
+    - 5193
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3ef083_jc_006-d10d2
+    span:
+    - body
+    - 2
+    - 5193
+  label: 血痹虛勞病脈證治第六
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ef083_jc_007-d11.h1s1
+    span:
+    - body
+    - 0
+    - 4694
+  label: 卷七
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3ef083_jc_007-d11d2
+    span:
+    - body
+    - 2
+    - 4694
+  label: 肺痿肺癰咳嗽上氣病脈證治第七
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ef083_jc_008-d12.h1s1
+    span:
+    - body
+    - 0
+    - 983
+  label: 卷八
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3ef083_jc_008-d12d2
+    span:
+    - body
+    - 2
+    - 983
+  label: 奔豚氣病脈證治第八
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ef083_jc_009-d13.h1s1
+    span:
+    - body
+    - 0
+    - 2090
+  label: 卷九
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3ef083_jc_009-d13d2
+    span:
+    - body
+    - 2
+    - 2090
+  label: 胸痹心痛短氣病脈證治第九
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ef083_jc_010-d14.h1s1
+    span:
+    - body
+    - 0
+    - 4673
+  label: 卷十
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3ef083_jc_010-d14d2
+    span:
+    - body
+    - 2
+    - 4673
+  label: 腹滿寒疝宿食病脈證治第十
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ef083_jc_011-d15.h1s1
+    span:
+    - body
+    - 0
+    - 4815
+  label: 卷十一
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3ef083_jc_011-d15d2
+    span:
+    - body
+    - 3
+    - 4815
+  label: 五臟風寒積聚病脈證治第十一
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ef083_jc_012-d16.h1s1
+    span:
+    - body
+    - 0
+    - 7185
+  label: 卷十二
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR3ef083_jc_012-d16d2
+    span:
+    - body
+    - 3
+    - 7185
+  label: 痰飲咳嗽病脈證治第十二
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3ef083_jc_013-d17.h1s1
+    span:
+    - body
+    - 0
+    - 2884
+  label: 卷十三
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR3ef083_jc_013-d17d2
+    span:
+    - body
+    - 3
+    - 2884
+  label: 消渴小便不利淋病脈證治第十三
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ef083_jc_014-d18.h1s1
+    span:
+    - body
+    - 0
+    - 9289
+  label: 卷十四
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR3ef083_jc_014-d18d2
+    span:
+    - body
+    - 3
+    - 9289
+  label: 水氣病脈證第十四
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ef083_jc_015-d19.h1s1
+    span:
+    - body
+    - 0
+    - 4885
+  label: 卷十五
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3ef083_jc_015-d19d2
+    span:
+    - body
+    - 3
+    - 4885
+  label: 黃疸病脈證並治第十五
+  type: section
+  level: 2
+- ref:
+    seq: 16
+    marker_id: KR3ef083_jc_016-d20.h1s1
+    span:
+    - body
+    - 0
+    - 3091
+  label: 卷十六
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR3ef083_jc_016-d20d2
+    span:
+    - body
+    - 3
+    - 3091
+  label: 驚悸吐衄下血胸滿瘀血第十六
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3ef083_jc_017-d21.h1s1
+    span:
+    - body
+    - 0
+    - 8172
+  label: 卷十七
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR3ef083_jc_017-d21d2
+    span:
+    - body
+    - 3
+    - 8172
+  label: 嘔吐噦下利病脈證第十七
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR3ef083_jc_018-d22.h1s1
+    span:
+    - body
+    - 0
+    - 1205
+  label: 卷十八
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR3ef083_jc_018-d22d2
+    span:
+    - body
+    - 3
+    - 1205
+  label: 瘡癰腸癰浸淫病脈證並治第十八
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3ef083_jc_019-d23.h1s1
+    span:
+    - body
+    - 0
+    - 1299
+  label: 卷十九
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR3ef083_jc_019-d23d2
+    span:
+    - body
+    - 3
+    - 1299
+  label: 趺蹶手指臂腫轉筋陰狐疝蛔蟲病脈證第十九
+  type: section
+  level: 2
+- ref:
+    seq: 20
+    marker_id: KR3ef083_jc_020-d24.h1s1
+    span:
+    - body
+    - 0
+    - 2743
+  label: 卷二十
+  type: section
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR3ef083_jc_020-d24d2
+    span:
+    - body
+    - 3
+    - 2743
+  label: 婦人妊娠病脈證治第二十
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR3ef083_jc_021-d25.h1s1
+    span:
+    - body
+    - 0
+    - 2233
+  label: 卷二十一
+  type: section
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR3ef083_jc_021-d25d2
+    span:
+    - body
+    - 4
+    - 2233
+  label: 婦人產後病脈證治第二十一
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR3ef083_jc_022-d26.h1s1
+    span:
+    - body
+    - 0
+    - 4790
+  label: 卷二十二
+  type: section
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR3ef083_jc_022-d26d2
+    span:
+    - body
+    - 4
+    - 4790
+  label: 婦人雜病脈證並治第二十二
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef083_jc_000-d27.h1s1
+    span:
+    - body
+    - 0
+    - 1336
+  label: 補方
+  type: section
+  level: 1
+hash: sha256:b20a6fa6d89679b9a0b02379ceec4020479724f3656aeb341382a36eb19ab2e8
